@@ -1,5 +1,5 @@
-# baseURL = 'https://sunrea1.github.io/'
-baseURL = "//example.org"
+baseURL = 'https://sunrea1.github.io/'
+# baseURL = "//example.org"
 relativeURLs = true
 uglyURLs = true
 languageCode = "en-us"
