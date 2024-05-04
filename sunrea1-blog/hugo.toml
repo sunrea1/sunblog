@@ -1,5 +1,7 @@
 # baseURL = 'https://sunrea1.github.io/'
-baseURL = "example.org"
+baseURL = "//example.org"
+relativeURLs = true
+uglyURLs = true
 languageCode = "en-us"
 title = "SunR1's Digital Garden"
 theme = "digitalgarden"
