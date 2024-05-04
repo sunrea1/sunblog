@@ -1,0 +1,6 @@
+[submodule "themes/paper"]
+	path = themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper
+[submodule "sunrea1-blog/themes/paper"]
+	path = sunrea1-blog/themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper
