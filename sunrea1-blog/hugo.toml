@@ -1,15 +1,7 @@
 baseURL = 'https://sunrea1.github.io/'
-# baseURL = "//example.org"
-relativeURLs = true
-uglyURLs = true
 languageCode = "en-us"
 title = "SunR1's Digital Garden"
 theme = "digitalgarden"
-
-[Params]
-  description = "My Digital Garden on the Internet"
-  images = ['/digital-garden-logo.png']
-  enableSearch = true
 
 [menu]
 [[menu.main]]
@@ -32,12 +24,5 @@ theme = "digitalgarden"
   name = 'Stack'
   url = '/stack'
   weight = 5
-# [[menu.main]]
-#   name = 'Links'
-#   params.header = true
-#   weight = 6
-# [[menu.main]]
-#   name = 'Polywork'
-#   url = 'https://polywork.com'
-#   weight = 7
+
 
