@@ -4,3 +4,6 @@
 [submodule "sunrea1-blog/themes/paper"]
 	path = sunrea1-blog/themes/paper
 	url = https://github.com/nanxiaobei/hugo-paper
+[submodule "sunrea1-blog/themes/digitalgarden"]
+	path = sunrea1-blog/themes/digitalgarden
+	url = https://github.com/apvarun/digital-garden-hugo-theme.git
