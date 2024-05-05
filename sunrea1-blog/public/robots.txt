@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: http://localhost:1313/sitemap.xml
+Sitemap: https://sunrea1.github.io/sitemap.xml
